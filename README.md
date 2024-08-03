@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @keenster35
-- 👀 I’m interested in finance
-- 🌱 I’m currently learning financial literacy
-- 💞️ I’m looking to collaborate on building finance apps
+- 👋 Hi, I’m @k33nanHuzz
+- 👀 I’m interested in finance and technology
+- 🌱 I’m currently learning Computer Science, Software development
+- 💞️ I’m looking to collaborate on building fintech apps
 - 📫 How to reach me +264 818536789
 
 <!---
