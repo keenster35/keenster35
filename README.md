@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @k33nanHuzz
+- 👋 Hi, I’m @Keenan Husselmann
 - 👀 I’m interested in finance and technology
 - 🌱 I’m currently learning Computer Science, Software development
 - 💞️ I’m looking to collaborate on building fintech apps
